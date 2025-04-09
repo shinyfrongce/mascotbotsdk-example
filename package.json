@@ -29,6 +29,8 @@
     "@mascotbot-sdk/react": "file:mascotbot-sdk-react-0.1.2.tgz",
     "@rive-app/canvas": "^2.25.4",
     "@rive-app/react-canvas": "^4.17.6",
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
     "axios": "^1.7.9",
     "lodash": "^4.17.21",
     "lucide-react": "^0.474.0",
